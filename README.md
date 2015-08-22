@@ -1,2 +1,2 @@
 # datasciencecoursera
-For the Coursera "The Data Scientist's Toolbox" course
+For the Coursera "The Data Scientist's Toolbox" course.
